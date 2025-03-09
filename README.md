@@ -2,12 +2,12 @@
 Gerenciamento de Impressão
 
 
-#Contexto
+# Contexto
 
 Imagine que você está desenvolvendo um sistema de gerenciamento de impressão para uma universidade. Os
 alunos podem enviar trabalhos para impressão, e a impressora os processa na ordem em que foram recebidos.
 
-#Tarefa
+# Tarefa
 
 1. Implemente uma fila para simular a fila de impressão. Cada trabalho de impressão deve ser representado por um
 objeto contendo:
